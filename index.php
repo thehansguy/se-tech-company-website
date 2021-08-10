@@ -67,13 +67,13 @@ font-awesome.min.css"
               <a href="./" class="nav-link">HOME</a>
             </li>
             <li class="nav-item">
-              <a href="./aboutphp" class="nav-link">ABOUT</a>
+              <a href="./about.php" class="nav-link">ABOUT</a>
             </li>
             <li class="nav-item">
-              <a href="./portfoliophp" class="nav-link">PORTFOLIO</a>
+              <a href="./portfolio.php" class="nav-link">PORTFOLIO</a>
             </li>
             <li class="nav-item">
-              <a href="./supportphp" class="nav-link">SUPPORT</a>
+              <a href="./support.php" class="nav-link">SUPPORT</a>
             </li>
           </ul>
         </nav>
@@ -93,7 +93,7 @@ font-awesome.min.css"
           <p class="homepage-hero-message">
             We’re here to help you with your digital transformation journey
           </p>
-          <a href="./supportphp"
+          <a href="./support.php"
             ><button id="homepage-hero-button">
               Get In Touch <i class="fa fa-arrow-right"></i></button
           ></a>
